@@ -1,0 +1,10 @@
+HeyElsa leverages open-source large language models (LLMs) such as DeepSeek, LLaMA, and Mistral to power its natural language interface, enabling the interpretation of user intents into secure on-chain scripts. 
+
+cmointern.com
+
+ Security is prioritized through multi-party computation (MPC) wallets, which eliminate the need for users to manage seed phrases or extensions—onboarding happens via email, with institutional-grade protection for transactions. 
+
+blog.heyelsa.ai +1
+
+ Gasless transactions are supported via Coinbase Smart Wallet and Paymaster contracts, particularly on Base, reducing costs and friction. 
+
